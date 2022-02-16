@@ -124,7 +124,7 @@ button.btn.btn-sm {
 
 }
 .box-one{
-    background:rgba(0, 0, 0, 0.7) url('../img/laptops3.jpg');
+    background:rgba(0, 0, 0, 0.7) url('laptops3.jpg');
     background-size: cover;
     background-blend-mode: darken;
     display: flex;
@@ -164,7 +164,7 @@ button.btn.btn-sm {
     font-size: xxx-large;
 }
 .linux-image{
-    background:rgba(0, 0, 0, 0.7) url('../img/linux.jpg');
+    background:rgba(0, 0, 0, 0.7) url('linux.jpg');
     background-blend-mode: darken;
     background-size: contain;
 }
@@ -242,7 +242,7 @@ button.btn.btn-sm {
     font-size: xxx-large;
 }
 .Windows-image{
-    background: rgb(29 146 202 / 70%) url('../img/windows.jpg');
+    background: rgb(29 146 202 / 70%) url('windows.jpg');
     background-blend-mode: darken;
     background-size: cover;    
 }
@@ -292,7 +292,7 @@ button.btn.btn-sm {
     font-size: xxx-large;
 }
 .Ios-image{
-    background:rgba(202, 202, 202, 0.7) url('../img/ios.jpg');
+    background:rgba(202, 202, 202, 0.7) url('ios.jpg');
     background-blend-mode: darken;
     background-size: cover;
 }
@@ -322,7 +322,7 @@ button.btn.btn-sm {
     margin: auto;
 }
 .box-three{
-    background-image: url('img/budget.jpg');
+    background-image: url('budget.jpg');
     background-blend-mode: darken;
     background-size: cover;
     /*max-width: 80%;*/
